@@ -41,7 +41,7 @@ Instructions:
 
 
 Team Members:
-  •	Alex Mathew (101037324)
-  •	Shahroz Haider (101079945)
-  •	Matthew Hettich (101014463)
-  •	Usman Haider (101067249)
+  	Alex Mathew (101037324),
+  	Shahroz Haider (101079945),
+  	Matthew Hettich (101014463),
+  	Usman Haider (101067249)
