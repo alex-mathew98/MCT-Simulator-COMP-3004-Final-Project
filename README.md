@@ -27,7 +27,7 @@ Forms:
   mainwindow.ui
 
 Resources:
-  bAck.png
+  back.png
   down.png
   left.png
   ok.png
