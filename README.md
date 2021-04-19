@@ -1,7 +1,5 @@
 # 3004_Project_Team29
 
-MCT Simulator
-
 Developing and Testing a MCT device simulator
 
 The goal of this project is to develop and test a simulator for embedded software used in microcurrent biofeedback devices.
@@ -27,12 +25,12 @@ Forms:
   mainwindow.ui
 
 Resources:
-  back.png
-  down.png
-  left.png
-  ok.png
-  power.png
-  right.png
+  back.png,
+  down.png,
+  left.png,
+  ok.png,
+  power.png,
+  right.png,
   up.png
 
 Instructions:
